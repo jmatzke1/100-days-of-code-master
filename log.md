@@ -10,6 +10,15 @@
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 
+### Day 2: March 26, Monday
+
+**Today's Progress**: Did some research and a little work on making an angualr calculator using the school template. Did some free code camp work also
+
+**Thoughts**
+maybe should use new project and make a component for the calculator 
+**Link(s) to work**
+devdoc looks like a lot of fun
+
 ### Day <>: <month> <date> 25, <day>
 
 **Today's Progress**: I
