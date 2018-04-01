@@ -43,6 +43,7 @@ I wonder if work things should count
 
 **Thoughts** 
 This was for school.
+
 **Link(s) to work**
 
 
@@ -52,6 +53,7 @@ This was for school.
 
 **Thoughts** 
 found out code school will be done on July 1st. Time to finish them up
+
 **Link(s) to work**
 www.codeschool.com
 
@@ -61,6 +63,7 @@ www.codeschool.com
 
 **Thoughts** 
 www.codeschool.com
+
 **Link(s) to work**
 
 ### Day 7: April 1, Sunday
@@ -70,7 +73,7 @@ www.codeschool.com
 **Thoughts** 
 **Link(s) to work**
 
-### Day <>: <month> 29, <day>
+### Day 8: <month> 29, <day>
 
 **Today's Progress**: I
 
